@@ -1,5 +1,5 @@
 # PortifolioHUB
 Olá! Meu nome é Carolina Maria, sou estudante e desenvolvedora iniciante
-#sobre mim
--Estudante de Análise e Desenvolvimento de Sistemas
+Sobre mim /n
+-Estudante de Análise e Desenvolvimento de Sistemas/n
 -Amo tecnologia e tenho bastante interesse em me tornar programadora
