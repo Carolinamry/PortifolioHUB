@@ -23,12 +23,13 @@ Neste portfólio, você encontrará informações sobre minha formação, projet
 
 **Formação Acadêmica**
 - Tecnólogo em Análise e Desenvolvimento de Sistemas  
-  [Nome da Instituição] — [Ano de início] até o momento
+ CEUB — 2025 até o momento
 
 **Habilidades Técnicas**
-- HTML5, CSS3, JavaScript (básico)
-- Git e GitHub
-- Lógica de programação
+- HTML5 (curso em andamento)
+- CSS3(curso em andamento)
+- Git e GitHub (básico)
+- Lógica de programação(básico)
 
 **Habilidades Pessoais**
 - Trabalho em equipe
@@ -49,15 +50,14 @@ Desenvolvido em grupo com mais duas colegas, esse sistema tem como objetivo ofer
 
 > **Status:** Em desenvolvimento  
 > **Tecnologias utilizadas:** HTML, CSS, JavaScript  
-> **Repositório:** [link do repositório do projeto – se tiver]  
-> *(ou insira prints / protótipos caso não tenha o link ainda)*
+> **Repositório:** o projeto e o protótipo ainda está em andamento
 
 ---
 
 ## 💡 Habilidades e Competências
 
 ### Técnicas
-- HTML5 | CSS3 | JavaScript
+- HTML5 | CSS3 |
 - Git e GitHub
 - VS Code
 
@@ -82,6 +82,6 @@ Desenvolvido em grupo com mais duas colegas, esse sistema tem como objetivo ofer
 
 ---
 
-📬 Entre em contato: [seuemail@email.com] | [LinkedIn]
+📬 Entre em contato: carolinamariasilva02@gmail.com | [LinkedIn]
 
 
