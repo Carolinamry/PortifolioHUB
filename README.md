@@ -2,7 +2,7 @@
 # 👩‍💻 Carolina Maria | Portfólio Profissional
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Localização: [Sua Cidade/Estado]  
+📍 Localização: Brasília DF  
 📧 E-mail: carolinamariasilva02@gmail.com 
 🔗 LinkedIn: [link do seu perfil]  
 💻 GitHub: [link do seu perfil]
