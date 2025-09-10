@@ -2,7 +2,7 @@
 # 👩‍💻 Carolina Maria | Portfólio Profissional
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Localização: Brasília DF  
+📍 Brasília DF  
 📧 E-mail: carolinamariasilva02@gmail.com 
 🔗 LinkedIn: [link do seu perfil]  
 💻 GitHub: [link do seu perfil]
@@ -23,7 +23,7 @@ Neste portfólio, você encontrará informações sobre minha formação, projet
 
 **Formação Acadêmica**
 - Tecnólogo em Análise e Desenvolvimento de Sistemas  
- CEUB — 2025 até o momento
+Centro Universitário de Brasília — CEUB (Início em 2025 – Em andamento)
 Atualmente estou aprofundando conhecimentos em programação e desenvolvimento de sistemas, com foco em projetos práticos durante o curso.
 
 **Habilidades Técnicas**
@@ -62,7 +62,6 @@ Busco adquirir experiência prática e me tornar uma profissional qualificada em
 ### Técnicas
 - HTML5 | CSS3 |
 - Git e GitHub
-- VS Code
 
 ### Pessoais
 - Proatividade
